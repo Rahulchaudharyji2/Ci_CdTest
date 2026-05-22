@@ -15,7 +15,7 @@ function App() {
  }
   
  useEffect(()=>{
- productFetch();
+ productFetch()
  },[])
   return (
     <>
